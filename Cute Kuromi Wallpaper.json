@@ -4,8 +4,8 @@
       "select_main_ads": "ADMOB",
       "select_backup_ads":"",
       "main_ads_banner": "",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "main_ads_intertitial":"ca-app-pub-7615880214648928/2961092609",
+      "main_ads_rewards":"ca-app-pub-7615880214648928/4832777162",
       "main_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
@@ -130,140 +130,140 @@
       "name_category": "kategori",
       "title":"Image 11",
       "image":"https://i.pinimg.com/564x/92/5d/39/925d39a228075697bd086c2741c64407.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":12,
       "name_category": "kategori",
       "title":"Image 12",
       "image":"https://i.pinimg.com/564x/b2/ee/b4/b2eeb40a93fcf717d0900f27bdfc2dc8.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":13,
       "name_category": "kategori",
       "title":"Image 13",
       "image":"https://i.pinimg.com/736x/92/04/d8/9204d886162172758d22abe25c54484c.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":14,
       "name_category": "kategori",
       "title":"Image 14",
       "image":"https://i.pinimg.com/564x/95/f3/0c/95f30cc91080f763cb8263a69c5c1165.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":15,
       "name_category": "kategori",
       "title":"Image 15",
       "image":"https://i.pinimg.com/564x/72/a3/b0/72a3b052d11e7832096b4187c84f1927.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":16,
       "name_category": "kategori",
       "title":"Image 16",
       "image":"https://i.pinimg.com/564x/fe/97/77/fe9777a2a80983bae28f79b1d8409717.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":17,
       "name_category": "kategori",
       "title":"Image 17",
       "image":"https://i.pinimg.com/564x/02/1d/2e/021d2e367b24fe21c5293586801ec0f4.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":18,
       "name_category": "kategori",
       "title":"Image 18",
       "image":"https://i.pinimg.com/564x/ba/c3/d2/bac3d204babd473950dfe68783d9bc7c.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":19,
       "name_category": "kategori",
       "title":"Image 19",
       "image":"https://i.pinimg.com/564x/9e/f8/ad/9ef8ad8fb7693be7067d733cde2b5f28.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":20,
       "name_category": "kategori",
       "title":"Image 20",
       "image":"https://i.pinimg.com/564x/84/a2/63/84a263f811d96acb9035402432507ebb.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":21,
       "name_category": "kategori",
       "title":"Image 21",
       "image":"https://i.pinimg.com/564x/ae/b7/de/aeb7de03315a61640d51a44e130f9ca3.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":22,
       "name_category": "kategori",
       "title":"Image 22",
       "image":"https://i.pinimg.com/564x/a5/93/41/a593412c15f330f7e28b26591b7c93ac.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":23,
       "name_category": "kategori",
       "title":"Image 23",
       "image":"https://i.pinimg.com/564x/31/a6/90/31a690d37ed32f80a2af8eaec50ea420.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":24,
       "name_category": "kategori",
       "title":"Image 24",
       "image":"https://i.pinimg.com/564x/62/9d/3a/629d3a1dd780b6f9fe1065ac75aed3d4.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":25,
       "name_category": "kategori",
       "title":"Image 25",
       "image":"https://i.pinimg.com/564x/ed/22/32/ed2232c717b4d9751bcb870511669bce.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":26,
       "name_category": "kategori",
       "title":"Image 26",
       "image":"https://i.pinimg.com/564x/57/0e/0a/570e0a240b12652b1de9fca1c41e3a51.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":27,
       "name_category": "kategori",
       "title":"Image 27",
       "image":"https://i.pinimg.com/564x/d9/d7/77/d9d77784b1d83fdf2a1252c236d3c2ee.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":28,
       "name_category": "kategori",
       "title":"Image 28",
       "image":"https://i.pinimg.com/564x/c9/cf/94/c9cf94238b29f57a719a9b2ccffd7f63.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":29,
       "name_category": "kategori",
       "title":"Image 29",
       "image":"https://i.pinimg.com/564x/86/d4/2f/86d42f36a5666d1b63bd59030fe570d0.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":30,
       "name_category": "kategori",
       "title":"Image 30",
       "image":"https://i.pinimg.com/564x/99/5b/7b/995b7b2d5c79ec48bd698f73aaf870bc.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":31,
