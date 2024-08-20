@@ -3,19 +3,13 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"",
-      "main_ads_banner": "",
+      "main_ads_banner": "ca-app-pub-7615880214648928/2390246965",
       "main_ads_intertitial":"ca-app-pub-7615880214648928/2961092609",
-      "main_ads_rewards":"ca-app-pub-7615880214648928/4832777162",
-      "main_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
-      "backup_ads_natives":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
+      "open_app_ads":"",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -24,554 +18,576 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://"
-   
+
     }
   ],
-   "More":
-  [
-    {
-      "id":1,
-      "title":"Cute Blue Koala Wallpaper",
-      "image":"https://play-lh.googleusercontent.com/UjKfgQzOUX36ySaFlHYV94ffot82nKSeClmQG0sT8WlutmKrLo5981cZ8dWYU06cHckZ=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mooncolor.SupercarsColoringBook&hl=en"
-    },
-	{
-      "id":2,
-      "title":"Cute Puppy Live Wallpaper HD",
-      "image":"https://play-lh.googleusercontent.com/Ih7l4U_uKkO0RUkQXvmG-p6cQBcQdpiHBf00ar9rqh42c-MzWovH6YMKhBdsqA8Ekwk=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.revaliastudio.CutePuppyLiveWallpaperHD&hl=en"
-    }
-
-  ],
-
   "Categories": [
     {
-      "id": 1,
-      "name_category": "kategori",
-      "image": "link_gambar"
+      "name_category": "Cute Kuromi",
+      "wallpaper_url": "https://i.pinimg.com/736x/c0/e5/a3/c0e5a36ff22a6b6ed2c6381c44d8be72.jpg"
     }
-    
+	
   ],
-
-  "Data":
-  [
+  "Wallpaper": [
     {
-      "id":1,
-      "name_category": "kategori",
-      "title":"Image 01",
-      "image":"https://i.pinimg.com/564x/10/58/08/105808269a9615068e1bb0f7e71995a9.jpg",
-      "lock":true
+      "id": 1,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/10/58/08/105808269a9615068e1bb0f7e71995a9.jpg"
     },
 	{
-      "id":2,
-      "name_category": "kategori",
-      "title":"Image 02",
-      "image":"https://i.pinimg.com/736x/c0/e5/a3/c0e5a36ff22a6b6ed2c6381c44d8be72.jpg",
-      "lock":true
+      "id": 2,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/c0/e5/a3/c0e5a36ff22a6b6ed2c6381c44d8be72.jpg"
     },
 	{
-      "id":3,
-      "name_category": "kategori",
-      "title":"Image 03",
-      "image":"https://i.pinimg.com/564x/55/0c/09/550c092ac87f40241c6e1f77a9f5de9d.jpg",
-      "lock":true
+      "id": 3,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/55/0c/09/550c092ac87f40241c6e1f77a9f5de9d.jpg"
     },
 	{
-      "id":4,
-      "name_category": "kategori",
-      "title":"Image 04",
-      "image":"https://i.pinimg.com/564x/72/6a/9c/726a9cc4932f976dd70cb55002125b78.jpg",
-      "lock":true
+      "id": 4,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/72/6a/9c/726a9cc4932f976dd70cb55002125b78.jpg"
     },
 	{
-      "id":5,
-      "name_category": "kategori",
-      "title":"Image 05",
-      "image":"https://i.pinimg.com/564x/8d/34/2d/8d342d3544ba410e8cc70e377f9aa2ac.jpg",
-      "lock":true
+      "id": 5,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/8d/34/2d/8d342d3544ba410e8cc70e377f9aa2ac.jpg"
     },
 	{
-      "id":6,
-      "name_category": "kategori",
-      "title":"Image 06",
-      "image":"https://i.pinimg.com/564x/22/93/c3/2293c322c1ccf63934d1188eecdf098e.jpg",
-      "lock":true
+      "id": 6,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/22/93/c3/2293c322c1ccf63934d1188eecdf098e.jpg"
     },
 	{
-      "id":7,
-      "name_category": "kategori",
-      "title":"Image 07",
-      "image":"https://i.pinimg.com/564x/df/0e/6d/df0e6d37af45efc52f37369d8f6df317.jpg",
-      "lock":true
+      "id": 7,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/df/0e/6d/df0e6d37af45efc52f37369d8f6df317.jpg"
     },
 	{
-      "id":8,
-      "name_category": "kategori",
-      "title":"Image 08",
-      "image":"https://i.pinimg.com/564x/16/04/de/1604de58d528260e1f1c6bf644cf2a7a.jpg",
-      "lock":true
+      "id": 8,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/16/04/de/1604de58d528260e1f1c6bf644cf2a7a.jpg"
     },
 	{
-      "id":9,
-      "name_category": "kategori",
-      "title":"Image 09",
-      "image":"https://i.pinimg.com/564x/de/0b/c2/de0bc2ab28481c661c6d4bdcc5df6dcd.jpg",
-      "lock":true
+      "id": 9,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/de/0b/c2/de0bc2ab28481c661c6d4bdcc5df6dcd.jpg"
     },
 	{
-      "id":10,
-      "name_category": "kategori",
-      "title":"Image 10",
-      "image":"https://i.pinimg.com/736x/27/2a/a9/272aa9e24b1e37d26a93fa78b239f4e0.jpg",
-      "lock":true
+      "id": 10,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/27/2a/a9/272aa9e24b1e37d26a93fa78b239f4e0.jpg"
     },
 	{
-      "id":11,
-      "name_category": "kategori",
-      "title":"Image 11",
-      "image":"https://i.pinimg.com/564x/92/5d/39/925d39a228075697bd086c2741c64407.jpg",
-      "lock":true
+      "id": 11,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/92/5d/39/925d39a228075697bd086c2741c64407.jpg"
     },
 	{
-      "id":12,
-      "name_category": "kategori",
-      "title":"Image 12",
-      "image":"https://i.pinimg.com/564x/b2/ee/b4/b2eeb40a93fcf717d0900f27bdfc2dc8.jpg",
-      "lock":true
+      "id": 12,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b2/ee/b4/b2eeb40a93fcf717d0900f27bdfc2dc8.jpg"
     },
 	{
-      "id":13,
-      "name_category": "kategori",
-      "title":"Image 13",
-      "image":"https://i.pinimg.com/736x/92/04/d8/9204d886162172758d22abe25c54484c.jpg",
-      "lock":true
+      "id": 13,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/92/04/d8/9204d886162172758d22abe25c54484c.jpg"
     },
 	{
-      "id":14,
-      "name_category": "kategori",
-      "title":"Image 14",
-      "image":"https://i.pinimg.com/564x/95/f3/0c/95f30cc91080f763cb8263a69c5c1165.jpg",
-      "lock":true
+      "id": 14,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/95/f3/0c/95f30cc91080f763cb8263a69c5c1165.jpg"
     },
 	{
-      "id":15,
-      "name_category": "kategori",
-      "title":"Image 15",
-      "image":"https://i.pinimg.com/564x/72/a3/b0/72a3b052d11e7832096b4187c84f1927.jpg",
-      "lock":true
+      "id": 15,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/72/a3/b0/72a3b052d11e7832096b4187c84f1927.jpg"
     },
 	{
-      "id":16,
-      "name_category": "kategori",
-      "title":"Image 16",
-      "image":"https://i.pinimg.com/564x/fe/97/77/fe9777a2a80983bae28f79b1d8409717.jpg",
-      "lock":true
+      "id": 16,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/fe/97/77/fe9777a2a80983bae28f79b1d8409717.jpg"
     },
 	{
-      "id":17,
-      "name_category": "kategori",
-      "title":"Image 17",
-      "image":"https://i.pinimg.com/564x/02/1d/2e/021d2e367b24fe21c5293586801ec0f4.jpg",
-      "lock":true
+      "id": 17,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/02/1d/2e/021d2e367b24fe21c5293586801ec0f4.jpg"
     },
 	{
-      "id":18,
-      "name_category": "kategori",
-      "title":"Image 18",
-      "image":"https://i.pinimg.com/564x/ba/c3/d2/bac3d204babd473950dfe68783d9bc7c.jpg",
-      "lock":true
+      "id": 18,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ba/c3/d2/bac3d204babd473950dfe68783d9bc7c.jpg"
     },
 	{
-      "id":19,
-      "name_category": "kategori",
-      "title":"Image 19",
-      "image":"https://i.pinimg.com/564x/9e/f8/ad/9ef8ad8fb7693be7067d733cde2b5f28.jpg",
-      "lock":true
+      "id": 19,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/9e/f8/ad/9ef8ad8fb7693be7067d733cde2b5f28.jpg"
     },
 	{
-      "id":20,
-      "name_category": "kategori",
-      "title":"Image 20",
-      "image":"https://i.pinimg.com/564x/84/a2/63/84a263f811d96acb9035402432507ebb.jpg",
-      "lock":true
+      "id": 20,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/84/a2/63/84a263f811d96acb9035402432507ebb.jpg"
     },
 	{
-      "id":21,
-      "name_category": "kategori",
-      "title":"Image 21",
-      "image":"https://i.pinimg.com/564x/ae/b7/de/aeb7de03315a61640d51a44e130f9ca3.jpg",
-      "lock":true
+      "id": 21,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ae/b7/de/aeb7de03315a61640d51a44e130f9ca3.jpg"
     },
 	{
-      "id":22,
-      "name_category": "kategori",
-      "title":"Image 22",
-      "image":"https://i.pinimg.com/564x/a5/93/41/a593412c15f330f7e28b26591b7c93ac.jpg",
-      "lock":true
+      "id": 22,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/a5/93/41/a593412c15f330f7e28b26591b7c93ac.jpg"
     },
 	{
-      "id":23,
-      "name_category": "kategori",
-      "title":"Image 23",
-      "image":"https://i.pinimg.com/564x/31/a6/90/31a690d37ed32f80a2af8eaec50ea420.jpg",
-      "lock":true
+      "id": 23,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/31/a6/90/31a690d37ed32f80a2af8eaec50ea420.jpg"
     },
 	{
-      "id":24,
-      "name_category": "kategori",
-      "title":"Image 24",
-      "image":"https://i.pinimg.com/564x/62/9d/3a/629d3a1dd780b6f9fe1065ac75aed3d4.jpg",
-      "lock":true
+      "id": 24,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/62/9d/3a/629d3a1dd780b6f9fe1065ac75aed3d4.jpg"
     },
 	{
-      "id":25,
-      "name_category": "kategori",
-      "title":"Image 25",
-      "image":"https://i.pinimg.com/564x/ed/22/32/ed2232c717b4d9751bcb870511669bce.jpg",
-      "lock":true
+      "id": 25,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ed/22/32/ed2232c717b4d9751bcb870511669bce.jpg"
     },
 	{
-      "id":26,
-      "name_category": "kategori",
-      "title":"Image 26",
-      "image":"https://i.pinimg.com/564x/57/0e/0a/570e0a240b12652b1de9fca1c41e3a51.jpg",
-      "lock":true
+      "id": 26,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/57/0e/0a/570e0a240b12652b1de9fca1c41e3a51.jpg"
     },
 	{
-      "id":27,
-      "name_category": "kategori",
-      "title":"Image 27",
-      "image":"https://i.pinimg.com/564x/d9/d7/77/d9d77784b1d83fdf2a1252c236d3c2ee.jpg",
-      "lock":true
+      "id": 27,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d9/d7/77/d9d77784b1d83fdf2a1252c236d3c2ee.jpg"
     },
 	{
-      "id":28,
-      "name_category": "kategori",
-      "title":"Image 28",
-      "image":"https://i.pinimg.com/564x/c9/cf/94/c9cf94238b29f57a719a9b2ccffd7f63.jpg",
-      "lock":true
+      "id": 28,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c9/cf/94/c9cf94238b29f57a719a9b2ccffd7f63.jpg"
     },
 	{
-      "id":29,
-      "name_category": "kategori",
-      "title":"Image 29",
-      "image":"https://i.pinimg.com/564x/86/d4/2f/86d42f36a5666d1b63bd59030fe570d0.jpg",
-      "lock":true
+      "id": 29,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/86/d4/2f/86d42f36a5666d1b63bd59030fe570d0.jpg"
     },
 	{
-      "id":30,
-      "name_category": "kategori",
-      "title":"Image 30",
-      "image":"https://i.pinimg.com/564x/99/5b/7b/995b7b2d5c79ec48bd698f73aaf870bc.jpg",
-      "lock":true
+      "id": 30,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/99/5b/7b/995b7b2d5c79ec48bd698f73aaf870bc.jpg"
     },
 	{
-      "id":31,
-      "name_category": "kategori",
-      "title":"Image 31",
-      "image":"https://i.pinimg.com/564x/b7/a5/7c/b7a57c9e8989c516cb55c8ea241bfd71.jpg",
-      "lock":true
+      "id": 31,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b7/a5/7c/b7a57c9e8989c516cb55c8ea241bfd71.jpg"
     },
 	{
-      "id":32,
-      "name_category": "kategori",
-      "title":"Image 32",
-      "image":"https://i.pinimg.com/564x/75/15/f7/7515f7d326e3bd8d7e1ccae242dd999a.jpg",
-      "lock":true
+      "id": 32,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/75/15/f7/7515f7d326e3bd8d7e1ccae242dd999a.jpg"
     },
 	{
-      "id":33,
-      "name_category": "kategori",
-      "title":"Image 33",
-      "image":"https://i.pinimg.com/564x/34/a1/eb/34a1ebf834aa2a52e25c3a627f092e0a.jpg",
-      "lock":true
+      "id": 33,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/34/a1/eb/34a1ebf834aa2a52e25c3a627f092e0a.jpg"
     },
 	{
-      "id":34,
-      "name_category": "kategori",
-      "title":"Image 34",
-      "image":"https://i.pinimg.com/736x/dd/3d/dc/dd3ddc688ade3eb6992e98c90f8b7663.jpg",
-      "lock":true
+      "id": 34,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/dd/3d/dc/dd3ddc688ade3eb6992e98c90f8b7663.jpg"
     },
 	{
-      "id":35,
-      "name_category": "kategori",
-      "title":"Image 35",
-      "image":"https://i.pinimg.com/736x/5f/4d/5f/5f4d5f38deeb56ae0c748564c6a8d966.jpg",
-      "lock":true
+      "id": 35,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/5f/4d/5f/5f4d5f38deeb56ae0c748564c6a8d966.jpg"
     },
 	{
-      "id":36,
-      "name_category": "kategori",
-      "title":"Image 36",
-      "image":"https://i.pinimg.com/564x/e3/89/a9/e389a9b7faa44ab464e694efc6d96222.jpg",
-      "lock":true
+      "id": 36,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e3/89/a9/e389a9b7faa44ab464e694efc6d96222.jpg"
     },
 	{
-      "id":37,
-      "name_category": "kategori",
-      "title":"Image 37",
-      "image":"https://i.pinimg.com/564x/c9/0b/67/c90b67e44d5a858346c4e63ef3f9673e.jpg",
-      "lock":true
+      "id": 37,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c9/0b/67/c90b67e44d5a858346c4e63ef3f9673e.jpg"
     },
 	{
-      "id":38,
-      "name_category": "kategori",
-      "title":"Image 38",
-      "image":"https://i.pinimg.com/564x/55/5b/11/555b11bc8f921f881a49f95a58f80b23.jpg",
-      "lock":true
+      "id": 38,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 38",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/55/5b/11/555b11bc8f921f881a49f95a58f80b23.jpg"
     },
 	{
-      "id":39,
-      "name_category": "kategori",
-      "title":"Image 39",
-      "image":"https://i.pinimg.com/564x/8f/39/cb/8f39cb6d3533b2ed2e044366c3aaa61f.jpg",
-      "lock":true
+      "id": 39,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 39",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/8f/39/cb/8f39cb6d3533b2ed2e044366c3aaa61f.jpg"
     },
 	{
-      "id":40,
-      "name_category": "kategori",
-      "title":"Image 40",
-      "image":"https://i.pinimg.com/564x/26/7a/6b/267a6be9cacae5e43aaf7741d04ce508.jpg",
-      "lock":true
+      "id": 40,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/26/7a/6b/267a6be9cacae5e43aaf7741d04ce508.jpg"
     },
 	{
-      "id":41,
-      "name_category": "kategori",
-      "title":"Image 41",
-      "image":"https://i.pinimg.com/564x/91/44/8e/91448e24b67bef1051d44ba11a60b22e.jpg",
-      "lock":true
+      "id": 41,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/91/44/8e/91448e24b67bef1051d44ba11a60b22e.jpg"
     },
 	{
-      "id":42,
-      "name_category": "kategori",
-      "title":"Image 42",
-      "image":"https://i.pinimg.com/564x/0f/45/e9/0f45e981b95462d7e49468afb50aac5b.jpg",
-      "lock":true
+      "id": 42,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/0f/45/e9/0f45e981b95462d7e49468afb50aac5b.jpg"
     },
 	{
-      "id":43,
-      "name_category": "kategori",
-      "title":"Image 43",
-      "image":"https://i.pinimg.com/736x/16/be/d7/16bed787913ca1334305ee160f80c910.jpg",
-      "lock":true
+      "id": 43,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/16/be/d7/16bed787913ca1334305ee160f80c910.jpg"
     },
 	{
-      "id":44,
-      "name_category": "kategori",
-      "title":"Image 44",
-      "image":"https://i.pinimg.com/564x/2f/0f/31/2f0f31055b1be21e46ebb11e02ef3bb3.jpg",
-      "lock":true
+      "id": 44,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2f/0f/31/2f0f31055b1be21e46ebb11e02ef3bb3.jpg"
     },
 	{
-      "id":45,
-      "name_category": "kategori",
-      "title":"Image 45",
-      "image":"https://i.pinimg.com/736x/84/0e/9e/840e9e8b6e8b5257a96817cbc99a940d.jpg",
-      "lock":true
+      "id": 45,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/84/0e/9e/840e9e8b6e8b5257a96817cbc99a940d.jpg"
     },
 	{
-      "id":46,
-      "name_category": "kategori",
-      "title":"Image 46",
-      "image":"https://i.pinimg.com/736x/23/ef/2a/23ef2a1b267de415d13e8d875068151e.jpg",
-      "lock":false
+      "id": 46,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 46",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/23/ef/2a/23ef2a1b267de415d13e8d875068151e.jpg"
     },
 	{
-      "id":47,
-      "name_category": "kategori",
-      "title":"Image 47",
-      "image":"https://i.pinimg.com/736x/71/ee/25/71ee257e57ab40630010bcfd490ed18c.jpg",
-      "lock":false
+      "id": 47,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 47",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/71/ee/25/71ee257e57ab40630010bcfd490ed18c.jpg"
     },
 	{
-      "id":48,
-      "name_category": "kategori",
-      "title":"Image 48",
-      "image":"https://i.pinimg.com/564x/e5/0f/00/e50f009b0116d38a82c3b2a0122556f0.jpg",
-      "lock":false
+      "id": 48,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 48",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e5/0f/00/e50f009b0116d38a82c3b2a0122556f0.jpg"
     },
 	{
-      "id":49,
-      "name_category": "kategori",
-      "title":"Image 49",
-      "image":"https://i.pinimg.com/564x/58/b3/0c/58b30c0904309522ece063a730674360.jpg",
-      "lock":false
+      "id": 49,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 49",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/58/b3/0c/58b30c0904309522ece063a730674360.jpg"
     },
 	{
-      "id":50,
-      "name_category": "kategori",
-      "title":"Image 50",
-      "image":"https://i.pinimg.com/564x/64/76/07/6476071c7b6bfa640102b08f3f07d6f2.jpg",
-      "lock":false
+      "id": 50,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 50",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/64/76/07/6476071c7b6bfa640102b08f3f07d6f2.jpg"
     },
 	{
-      "id":51,
-      "name_category": "kategori",
-      "title":"Image 51",
-      "image":"https://i.pinimg.com/564x/79/0a/69/790a6977568d749ac101e702e49d923c.jpg",
-      "lock":false
+      "id": 51,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 51",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/79/0a/69/790a6977568d749ac101e702e49d923c.jpg"
     },
 	{
-      "id":52,
-      "name_category": "kategori",
-      "title":"Image 52",
-      "image":"https://i.pinimg.com/564x/cc/33/85/cc3385b09f3c8a71fe2c6a152c6ed1f8.jpg",
-      "lock":false
+      "id": 52,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 52",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/cc/33/85/cc3385b09f3c8a71fe2c6a152c6ed1f8.jpg"
     },
 	{
-      "id":53,
-      "name_category": "kategori",
-      "title":"Image 53",
-      "image":"https://i.pinimg.com/564x/e1/b7/86/e1b786b037307aa2b9f575f8f28f4ccb.jpg",
-      "lock":false
+      "id": 53,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 53",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e1/b7/86/e1b786b037307aa2b9f575f8f28f4ccb.jpg"
     },
 	{
-      "id":54,
-      "name_category": "kategori",
-      "title":"Image 54",
-      "image":"https://i.pinimg.com/564x/9d/b3/3e/9db33e8d7f579256ad4c54eaf9d0a135.jpg",
-      "lock":false
+      "id": 54,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 54",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/9d/b3/3e/9db33e8d7f579256ad4c54eaf9d0a135.jpg"
     },
 	{
-      "id":55,
-      "name_category": "kategori",
-      "title":"Image 55",
-      "image":"https://i.pinimg.com/564x/e0/61/a4/e061a458f95f04b9cb914d3d2b87d204.jpg",
-      "lock":false
+      "id": 55,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 55",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e0/61/a4/e061a458f95f04b9cb914d3d2b87d204.jpg"
     },
 	{
-      "id":56,
-      "name_category": "kategori",
-      "title":"Image 56",
-      "image":"https://i.pinimg.com/564x/b6/c2/d2/b6c2d2206aebe44258c1937c212184d7.jpg",
-      "lock":false
+      "id": 56,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 56",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b6/c2/d2/b6c2d2206aebe44258c1937c212184d7.jpg"
     },
 	{
-      "id":57,
-      "name_category": "kategori",
-      "title":"Image 57",
-      "image":"https://i.pinimg.com/564x/84/6f/0b/846f0b860c3058cb3e4c53acf4177669.jpg",
-      "lock":false
+      "id": 57,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 57",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/84/6f/0b/846f0b860c3058cb3e4c53acf4177669.jpg"
     },
 	{
-      "id":58,
-      "name_category": "kategori",
-      "title":"Image 58",
-      "image":"https://i.pinimg.com/564x/3b/62/2c/3b622c46a6864d2cb755e15a92cbf4e4.jpg",
-      "lock":false
+      "id": 58,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 58",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/3b/62/2c/3b622c46a6864d2cb755e15a92cbf4e4.jpg"
     },
 	{
-      "id":59,
-      "name_category": "kategori",
-      "title":"Image 59",
-      "image":"https://i.pinimg.com/564x/fe/39/50/fe39509145658974646fd8ff264a3796.jpg",
-      "lock":false
+      "id": 59,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 59",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/fe/39/50/fe39509145658974646fd8ff264a3796.jpg"
     },
 	{
-      "id":60,
-      "name_category": "kategori",
-      "title":"Image 60",
-      "image":"https://i.pinimg.com/564x/46/90/07/469007ec907bc63db85f24fde77ee8a5.jpg",
-      "lock":false
+      "id": 60,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 60",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/46/90/07/469007ec907bc63db85f24fde77ee8a5.jpg"
     },
 	{
-      "id":61,
-      "name_category": "kategori",
-      "title":"Image 61",
-      "image":"https://i.pinimg.com/564x/0f/36/fc/0f36fce8daa47bb5c5f071ba1eca4554.jpg",
-      "lock":false
+      "id": 61,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 61",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/0f/36/fc/0f36fce8daa47bb5c5f071ba1eca4554.jpg"
     },
 	{
-      "id":62,
-      "name_category": "kategori",
-      "title":"Image 62",
-      "image":"https://i.pinimg.com/564x/32/81/cf/3281cf5de9ae06894d33e4295063b86a.jpg",
-      "lock":false
+      "id": 62,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 62",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/32/81/cf/3281cf5de9ae06894d33e4295063b86a.jpg"
     },
 	{
-      "id":63,
-      "name_category": "kategori",
-      "title":"Image 63",
-      "image":"https://i.pinimg.com/564x/b6/54/5a/b6545a71aa07ce6f25d90017930ad9fd.jpg",
-      "lock":false
+      "id": 63,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 63",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b6/54/5a/b6545a71aa07ce6f25d90017930ad9fd.jpg"
     },
 	{
-      "id":64,
-      "name_category": "kategori",
-      "title":"Image 64",
-      "image":"https://i.pinimg.com/564x/f6/22/47/f622478569ba61b61fc70fb087502a41.jpg",
-      "lock":false
+      "id": 64,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 64",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/f6/22/47/f622478569ba61b61fc70fb087502a41.jpg"
     },
 	{
-      "id":65,
-      "name_category": "kategori",
-      "title":"Image 65",
-      "image":"https://i.pinimg.com/564x/07/fa/1c/07fa1c26f1d970338036ce48f4f1e4bd.jpg",
-      "lock":false
+      "id": 65,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 65",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/07/fa/1c/07fa1c26f1d970338036ce48f4f1e4bd.jpg"
     },
 	{
-      "id":66,
-      "name_category": "kategori",
-      "title":"Image 66",
-      "image":"https://i.pinimg.com/564x/f9/e9/c4/f9e9c47b4d5544a5c9b4e92b17b8cc3d.jpg",
-      "lock":false
+      "id": 66,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 66",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/f9/e9/c4/f9e9c47b4d5544a5c9b4e92b17b8cc3d.jpg"
     },
 	{
-      "id":67,
-      "name_category": "kategori",
-      "title":"Image 67",
-      "image":"https://i.pinimg.com/564x/b2/ba/21/b2ba21b8268c6e46dbe44a68462f7189.jpg",
-      "lock":false
+      "id": 67,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 67",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b2/ba/21/b2ba21b8268c6e46dbe44a68462f7189.jpg"
     },
 	{
-      "id":68,
-      "name_category": "kategori",
-      "title":"Image 68",
-      "image":"https://i.pinimg.com/564x/51/48/b3/5148b3a92b1aa57574c354b51880487f.jpg",
-      "lock":false
+      "id": 68,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 68",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/51/48/b3/5148b3a92b1aa57574c354b51880487f.jpg"
     },
 	{
-      "id":69,
-      "name_category": "kategori",
-      "title":"Image 69",
-      "image":"https://i.pinimg.com/564x/02/1d/2e/021d2e367b24fe21c5293586801ec0f4.jpg",
-      "lock":false
+      "id": 69,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 69",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/02/1d/2e/021d2e367b24fe21c5293586801ec0f4.jpg"
     },
 	{
-      "id":70,
-      "name_category": "kategori",
-      "title":"Image 70",
-      "image":"https://i.pinimg.com/736x/e2/ce/fa/e2cefa0d54f859cb407c97f0e0bea080.jpg",
-      "lock":false
+      "id": 70,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 70",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/e2/ce/fa/e2cefa0d54f859cb407c97f0e0bea080.jpg"
     },
 	{
-      "id":71,
-      "name_category": "kategori",
-      "title":"Image 71",
-      "image":"https://i.pinimg.com/564x/eb/35/53/eb3553011e62ac8bbbb69ac021de98d6.jpg",
-      "lock":false
+      "id": 71,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 71",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/eb/35/53/eb3553011e62ac8bbbb69ac021de98d6.jpg"
     },
 	{
-      "id":72,
-      "name_category": "kategori",
-      "title":"Image 72",
-      "image":"https://i.pinimg.com/736x/8b/98/7b/8b987b9d21f32d11227819cea98c7a15.jpg",
-      "lock":false
+      "id": 72,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 72",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/8b/98/7b/8b987b9d21f32d11227819cea98c7a15.jpg"
     },
 	{
-      "id":73,
-      "name_category": "kategori",
-      "title":"Image 73",
-      "image":"https://i.pinimg.com/736x/04/d6/61/04d66115890af6b039bde9351ec1c509.jpg",
-      "lock":false
+      "id": 73,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 73",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/04/d6/61/04d66115890af6b039bde9351ec1c509.jpg"
     },
 	{
-      "id":74,
-      "name_category": "kategori",
-      "title":"Image 74",
-      "image":"https://i.pinimg.com/564x/24/7e/0f/247e0fb42c15848f74bafa1f63a69242.jpg",
-      "lock":false
+      "id": 74,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 74",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/24/7e/0f/247e0fb42c15848f74bafa1f63a69242.jpg"
+    },
+	{
+      "id": 75,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 75",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/6d/8f/a6/6d8fa6e5a5b2af911d02cd1eb909a934.gif"
+    },
+	{
+      "id": 76,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 76",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/40/d7/50/40d7506b58336f6700d7f22cf47ab925.gif"
+    },
+	{
+      "id": 77,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 77",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/2a/47/aa/2a47aa0319fe62f52294f85b6b60b6e1.gif"
+    },
+	{
+      "id": 78,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 78",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/34/fb/56/34fb566e48a1dbdbd5c00f2b13f895be.gif"
+    },
+	{
+      "id": 79,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 79",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/e5/70/e4/e570e4a8d3ff2ec5b628ada1711b8a47.gif"
+    },
+	{
+      "id": 80,
+      "name_category": "Cute Kuromi",
+      "wallpaper_name": "Cute Kuromi 80",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/f0/0a/2e/f00a2ec57b031d2322bdbda748c95910.gif"
     }
     
   ]
